@@ -1,4 +1,6 @@
-# FizzBuzzEnterprise
+# FizzBuzzEnterpriseEdition
+FizzBuzz Challenge
+
 
 For numbers 1 through 100,
 
